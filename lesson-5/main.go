@@ -2,6 +2,9 @@ package main
 
 import "fmt"
 
+// 型の宣言
+// string型
+
 func main() {
 	var s string = "Hello Golang"
 	fmt.Println(s)
