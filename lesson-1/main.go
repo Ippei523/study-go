@@ -50,4 +50,8 @@ func main() {
 	fmt.Println(i5)
 
 	outer()
+
+	var s5 string = "main"
+
+	fmt.Println(s5)
 }
